@@ -1,0 +1,1 @@
+# My progress of working through "JavaScript The Complete Guide 2021" by Maximilian Schwarzmuller
