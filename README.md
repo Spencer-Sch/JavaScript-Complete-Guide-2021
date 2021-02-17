@@ -5,4 +5,4 @@
 # Section 1 - Complete
 # Section 2 - Complete
 # Section 3 - Complete
-# Section 4 - Started.  Built monster fighting "game".
+# Section 4 - Complete
