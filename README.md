@@ -13,3 +13,5 @@ Section 4 - Complete
 Section 5 - Complete
 
 Section 6 - Complete
+
+Section 7 - lesson 1 through 8 complete.
