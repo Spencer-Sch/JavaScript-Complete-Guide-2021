@@ -3,8 +3,13 @@
 ## I'm not showing code files to respect Max's instructional material
 
 Section 1 - Complete
+
 Section 2 - Complete
+
 Section 3 - Complete
+
 Section 4 - Complete
+
 Section 5 - Complete
+
 Section 6 - Complete
