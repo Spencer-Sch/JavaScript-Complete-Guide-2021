@@ -18,4 +18,4 @@ Section 7 - Complete
 
 Section 8 - Complete
 
-Section 9 - 1 through 12 complete
+Section 9 - 1 through 26 complete
