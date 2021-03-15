@@ -19,3 +19,5 @@ Section 7 - Complete
 Section 8 - Complete
 
 Section 9 - Complete
+
+Section 10 - Lessons 1 through 11 complete.
