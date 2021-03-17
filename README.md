@@ -20,4 +20,4 @@ Section 8 - Complete
 
 Section 9 - Complete
 
-Section 10 - Lessons 1 through 21 complete.
+Section 10 - Complete
