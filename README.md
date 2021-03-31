@@ -21,3 +21,5 @@ Section 8 - Complete
 Section 9 - Complete
 
 Section 10 - Complete
+
+Section 11 - Lessons 1 through 3 completed
