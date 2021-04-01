@@ -22,4 +22,4 @@ Section 9 - Complete
 
 Section 10 - Complete
 
-Section 11 - Lessons 1 through 3 completed
+Section 11 - Lessons 1 through 14 completed
