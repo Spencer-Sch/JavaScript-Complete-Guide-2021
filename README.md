@@ -26,4 +26,4 @@ Section 11 - Complete
 
 Section 12 - Complete
 
-Section 13 - Lessons 1 through 9 complete
+Section 13 - Complete
