@@ -27,3 +27,5 @@ Section 11 - Complete
 Section 12 - Complete
 
 Section 13 - Complete
+
+Section 14 - Lessons 1 through 7 completed
