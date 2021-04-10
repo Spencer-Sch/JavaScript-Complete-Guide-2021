@@ -28,4 +28,4 @@ Section 12 - Complete
 
 Section 13 - Complete
 
-Section 14 - Lessons 1 through 15 completed
+Section 14 - Complete
