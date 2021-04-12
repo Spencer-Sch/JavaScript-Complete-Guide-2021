@@ -33,3 +33,5 @@ Section 14 - Complete
 Section 15 - Complete
 
 Section 16 - Complete
+
+Section 17 - Lessons 1 through 13 complete
