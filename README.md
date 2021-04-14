@@ -35,3 +35,5 @@ Section 15 - Complete
 Section 16 - Complete
 
 Section 17 - Complete
+
+Section 18 - lessons 1 through 10 completed
