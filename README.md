@@ -36,4 +36,4 @@ Section 16 - Complete
 
 Section 17 - Complete
 
-Section 18 - lessons 1 through 10 completed
+Section 18 - lessons 1 through 13 completed
