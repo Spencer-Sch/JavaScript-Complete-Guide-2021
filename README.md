@@ -42,4 +42,4 @@ Section 19 - Complete
 
 Section 20 - Complete
 
-Section 21 - Lessons 1 through 11 complete
+Section 21 - Complete
