@@ -1,9 +1,0 @@
-npm init
-
-(press enter a bunch of times)
-
-npm install --save-dev
-
-npm install --save-dev webpack-dev-serv
-
-npm run build:dev
