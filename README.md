@@ -47,3 +47,5 @@ Section 21 - Complete
 Section 22 - Complete
 
 Section 23 - Complete
+
+Section 24 - Lessons 1 through 8 complete
