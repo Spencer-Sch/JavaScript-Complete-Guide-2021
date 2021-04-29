@@ -53,3 +53,5 @@ Section 24 - Complete
 Section 25 - Complete
 
 Section 26 - Complete
+
+Section 27 - Lessons 1 through 5 complete
