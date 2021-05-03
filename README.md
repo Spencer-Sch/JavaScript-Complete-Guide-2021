@@ -54,4 +54,4 @@ Section 25 - Complete
 
 Section 26 - Complete
 
-Section 27 - Lessons 6 through 20 complete
+Section 27 - Complete
