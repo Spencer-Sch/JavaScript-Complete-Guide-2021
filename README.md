@@ -61,3 +61,5 @@ Section 28 - Complete
 Section 29 - Complete
 
 Section 30 - Complete
+
+Section 31 - Lessons 1 & 2 completed
