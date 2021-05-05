@@ -65,3 +65,5 @@ Section 30 - Complete
 Section 31 - Complete
 
 Section 32 - Complete
+
+Section 33 - Lessons 1 through 7 complete
