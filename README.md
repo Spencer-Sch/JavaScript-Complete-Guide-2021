@@ -62,4 +62,4 @@ Section 29 - Complete
 
 Section 30 - Complete
 
-Section 31 - Lessons 1 & 2 completed
+Section 31 - Complete
