@@ -68,4 +68,4 @@ Section 32 - Complete
 
 Section 33 - Complete
 
-Section 34 - Lessons 1 through 3 completed
+Section 34 - Lessons 1 through 7 completed
