@@ -69,3 +69,5 @@ Section 32 - Complete
 Section 33 - Complete
 
 Section 34 - Completed
+
+Section 35 - Lessons 1 through 6 complete.
