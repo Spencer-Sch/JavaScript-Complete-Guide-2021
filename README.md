@@ -70,4 +70,4 @@ Section 33 - Complete
 
 Section 34 - Completed
 
-Section 35 - Lessons 7 through 11 complete.
+Section 35 - Lessons 1 through 20 complete.
