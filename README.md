@@ -73,3 +73,5 @@ Section 34 - Completed
 Section 35 - Completed
 
 Section 36 - Completed
+
+COURSE COMPLETE!
