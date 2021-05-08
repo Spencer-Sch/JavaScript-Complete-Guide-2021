@@ -68,10 +68,10 @@ Section 32 - Complete
 
 Section 33 - Complete
 
-Section 34 - Completed
+Section 34 - Complete
 
-Section 35 - Completed
+Section 35 - Complete
 
-Section 36 - Completed
+Section 36 - Complete
 
 COURSE COMPLETE!
