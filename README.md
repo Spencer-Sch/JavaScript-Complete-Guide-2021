@@ -1,113 +1,163 @@
-# My progress of working through "JavaScript The Complete Guide 2021" by Maximilian Schwarzmuller
+# JavaScript - The Complete Guide
 
-## I'm not showing code files to respect Max's instructional material
+#### by Maximilian Schwarzmuller
 
-Section 1: Introduction
-- Complete
+[Udemy Link](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 
-Section 2: Basics: Variables, Data Types, Operators & Functions
-- Complete
+---
 
-Section 3: Efficient Development & Debugging
-- Complete
+## Description
 
-Section 4: Working with Control Structures (if Statements, Loops, Error Handling)
-- Complete
+Tracking my progress through the course.
 
-Section 5: Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript
-- Complete
+---
 
-Section 6: More on Functions
-- Complete
+## Course Sections
 
-Section 7: Working with the DOM (Browser HTML Code) in JavaScript
-- Complete
+#### Section 1: Introduction
 
-Section 8: More on Arrays & Iterables
-- Complete
+✅ Complete
 
-Section 9: More on Objects
-- Complete
+#### Section 2: Basics: Variables, Data Types, Operators & Functions
 
-Section 10: Classes & Object-oriented Programming (OOP)
-- Complete
+✅ Complete
 
-Section 11: Deep Dive: Constructor Functions & Prototypes
-- Complete
+#### Section 3: Efficient Development & Debugging
 
-Section 12: Practice: OOP & Classes
-- Complete
+✅ Complete
 
-Section 13: Back to the DOM & More Browser APIs
-- Complete
+#### Section 4: Working with Control Structures (if Statements, Loops, Error Handling)
 
-Section 14: Working with Events
-- Complete
+✅ Complete
 
-Section 15: Advanced Function Concepts
-- Complete
+#### Section 5: Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript
 
-Section 16: More on Numbers & Strings
-- Complete
+✅ Complete
 
-Section 17: Async JavaScript: Promises & Callbacks
-- Complete
+#### Section 6: More on Functions
 
-Section 18: Working with Http Requests
-- Complete
+✅ Complete
 
-Section 19: Working with JavaScript Libraries
-- Complete
+#### Section 7: Working with the DOM (Browser HTML Code) in JavaScript
 
-Section 20: Modular JavaScript (Working with Modules)
-- Complete
+✅ Complete
 
-Section 21: JavaScript Tooling & Workflows
-- Complete
+#### Section 8: More on Arrays & Iterables
 
-Section 22: Utilizing Browser Storage
-- Complete
+✅ Complete
 
-Section 23: JavaScript & Browser Support
-- Complete
+#### Section 9: More on Objects
 
-Section 24: Time to Practice: Share My Place App
-- Complete
+✅ Complete
 
-Section 25: Working with JavaScript Frameworks
-- Complete
+#### Section 10: Classes & Object-oriented Programming (OOP)
 
-Section 26: Meta-Programming: Symbols, Iterators, Generators, Reflect API & Proxy API
-- Complete
+✅ Complete
 
-Section 27: Node.js: An Introduction
-- Complete
+#### Section 11: Deep Dive: Constructor Functions & Prototypes
 
-Section 28: Security
-- Complete
+✅ Complete
 
-Section 29: Deploying JavaScript Code
-- Complete
+#### Section 12: Practice: OOP & Classes
 
-Section 30: Performance & Optimizations
-- Complete
+✅ Complete
 
-Section 31: Introduction to Testing
-- Complete
+#### Section 13: Back to the DOM & More Browser APIs
 
-Section 32: Bonus: Programming Paradigms (Procedural vs Object Oriented vs Functional)
-- Complete
+✅ Complete
 
-Section 33: Bonus: Data Structures & Algorithms Introduction
-- Complete
+#### Section 14: Working with Events
 
-Section 34: Bonus: TypeScript Introduction
-- Complete
+✅ Complete
 
-Section 35: Bonus: Web Components
-- Complete
+#### Section 15: Advanced Function Concepts
 
-Section 36: Roundup & Next Steps
-- Complete
+✅ Complete
 
-COURSE COMPLETE!
+#### Section 16: More on Numbers & Strings
+
+✅ Complete
+
+#### Section 17: Async JavaScript: Promises & Callbacks
+
+✅ Complete
+
+#### Section 18: Working with Http Requests
+
+✅ Complete
+
+#### Section 19: Working with JavaScript Libraries
+
+✅ Complete
+
+#### Section 20: Modular JavaScript (Working with Modules)
+
+✅ Complete
+
+#### Section 21: JavaScript Tooling & Workflows
+
+✅ Complete
+
+#### Section 22: Utilizing Browser Storage
+
+✅ Complete
+
+#### Section 23: JavaScript & Browser Support
+
+✅ Complete
+
+#### Section 24: Time to Practice: Share My Place App
+
+✅ Complete
+
+#### Section 25: Working with JavaScript Frameworks
+
+✅ Complete
+
+#### Section 26: Meta-Programming: Symbols, Iterators, Generators, Reflect API & Proxy API
+
+✅ Complete
+
+#### Section 27: Node.js: An Introduction
+
+✅ Complete
+
+#### Section 28: Security
+
+✅ Complete
+
+#### Section 29: Deploying JavaScript Code
+
+✅ Complete
+
+#### Section 30: Performance & Optimizations
+
+✅ Complete
+
+#### Section 31: Introduction to Testing
+
+✅ Complete
+
+#### Section 32: Bonus: Programming Paradigms (Procedural vs Object Oriented vs Functional)
+
+✅ Complete
+
+#### Section 33: Bonus: Data Structures & Algorithms Introduction
+
+✅ Complete
+
+#### Section 34: Bonus: TypeScript Introduction
+
+✅ Complete
+
+#### Section 35: Bonus: Web Components
+
+✅ Complete
+
+#### Section 36: Roundup & Next Steps
+
+✅ Complete
+
+## COURSE COMPLETE!
+
+[Back To The Top](#javascript---the-complete-guide)
